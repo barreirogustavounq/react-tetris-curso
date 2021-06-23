@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/barreirogustavounq.github.io/react-tetris-curso/static/css/main.746de93c.chunk.css",
-    "main.js": "/barreirogustavounq.github.io/react-tetris-curso/static/js/main.1cc01b18.chunk.js",
-    "main.js.map": "/barreirogustavounq.github.io/react-tetris-curso/static/js/main.1cc01b18.chunk.js.map",
+    "main.js": "/barreirogustavounq.github.io/react-tetris-curso/static/js/main.2aff6058.chunk.js",
+    "main.js.map": "/barreirogustavounq.github.io/react-tetris-curso/static/js/main.2aff6058.chunk.js.map",
     "runtime-main.js": "/barreirogustavounq.github.io/react-tetris-curso/static/js/runtime-main.d26ebf68.js",
     "runtime-main.js.map": "/barreirogustavounq.github.io/react-tetris-curso/static/js/runtime-main.d26ebf68.js.map",
     "static/js/2.8da20cde.chunk.js": "/barreirogustavounq.github.io/react-tetris-curso/static/js/2.8da20cde.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d26ebf68.js",
     "static/js/2.8da20cde.chunk.js",
     "static/css/main.746de93c.chunk.css",
-    "static/js/main.1cc01b18.chunk.js"
+    "static/js/main.2aff6058.chunk.js"
   ]
 }
