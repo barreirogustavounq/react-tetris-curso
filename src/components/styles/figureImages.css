@@ -1,0 +1,19 @@
+.figure {
+  height: 100px;
+}
+
+.next {
+  color: #999;
+  font-family: Pixel, Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+}
+
+.preview {
+  background-color: black;
+  display: flex;
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
+  border: 4px solid #333;
+  width: 100%;
+  border-radius: 20px;
+}
