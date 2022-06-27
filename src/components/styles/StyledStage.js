@@ -8,7 +8,6 @@ export const StyledStage = styled.div`
   width: 100%;
   max-width: 25vw;
   background: rgb(17, 17, 17);
-  POSITION: absolute;
   min-width: 18rem;
   min-height: 32rem;
 `;

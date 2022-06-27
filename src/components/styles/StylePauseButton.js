@@ -4,8 +4,8 @@ export const StyledPauseButton = styled.div`
   box-sizing: border-box;
   margin: 0 0 20px 0;
   text-align: center;
-  padding: 3px;
-  min-height: 30px;
+  padding: 20px;
+  height: 4em;
   width: 100%;
   border-radius: 20px;
   border: none;
@@ -15,4 +15,5 @@ export const StyledPauseButton = styled.div`
   font-size: 1rem;
   outline: none;
   cursor: pointer;
+  box-shadow: 3px 4px 7px 0px grey;
 `;

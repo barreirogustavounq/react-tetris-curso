@@ -7,15 +7,16 @@ const App = () => (
   <div className="App">
   <div class="container">
     <div class="row">
-      <div className="col">
-        <Tetris />
-      </div>
-      <div class="col">
+     
+      <div class="col-12">
         <img
           className="tetrisNav"
           src={nav}
           alt="nav"
           />
+      </div>
+      <div className="col-12">
+        <Tetris />
       </div>
     </div>
    </div>

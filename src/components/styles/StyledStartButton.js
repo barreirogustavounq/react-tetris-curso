@@ -15,4 +15,5 @@ export const StyledStartButton = styled.div`
   font-size: 1rem;
   outline: none;
   cursor: pointer;
+  box-shadow: 3px 4px 7px 0px grey;
 `;
