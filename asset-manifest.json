@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-tetris-curso/static/css/main.a656ecb3.chunk.css",
-    "main.js": "/react-tetris-curso/static/js/main.1f3cb7ec.chunk.js",
-    "main.js.map": "/react-tetris-curso/static/js/main.1f3cb7ec.chunk.js.map",
-    "runtime-main.js": "/react-tetris-curso/static/js/runtime-main.f97e19ff.js",
-    "runtime-main.js.map": "/react-tetris-curso/static/js/runtime-main.f97e19ff.js.map",
-    "static/js/2.4847cb7d.chunk.js": "/react-tetris-curso/static/js/2.4847cb7d.chunk.js",
-    "static/js/2.4847cb7d.chunk.js.map": "/react-tetris-curso/static/js/2.4847cb7d.chunk.js.map",
-    "index.html": "/react-tetris-curso/index.html",
-    "static/css/main.a656ecb3.chunk.css.map": "/react-tetris-curso/static/css/main.a656ecb3.chunk.css.map",
-    "static/js/2.4847cb7d.chunk.js.LICENSE.txt": "/react-tetris-curso/static/js/2.4847cb7d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/react-tetris-curso/static/media/Pixel-LCD-7.63d9c151.woff",
-    "static/media/App.css": "/react-tetris-curso/static/media/bg.d63cfd51.png",
-    "static/media/tetrisNav.fb8cf546.png": "/react-tetris-curso/static/media/tetrisNav.fb8cf546.png"
+    "main.css": "/static/css/main.72fd5f32.chunk.css",
+    "main.js": "/static/js/main.dbf38acb.chunk.js",
+    "main.js.map": "/static/js/main.dbf38acb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48735d46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48735d46.js.map",
+    "static/js/2.1211e256.chunk.js": "/static/js/2.1211e256.chunk.js",
+    "static/js/2.1211e256.chunk.js.map": "/static/js/2.1211e256.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72fd5f32.chunk.css.map": "/static/css/main.72fd5f32.chunk.css.map",
+    "static/js/2.1211e256.chunk.js.LICENSE.txt": "/static/js/2.1211e256.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/App.css": "/static/media/bg.d63cfd51.png",
+    "static/media/tetrisNav.fb8cf546.png": "/static/media/tetrisNav.fb8cf546.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f97e19ff.js",
-    "static/js/2.4847cb7d.chunk.js",
-    "static/css/main.a656ecb3.chunk.css",
-    "static/js/main.1f3cb7ec.chunk.js"
+    "static/js/runtime-main.48735d46.js",
+    "static/js/2.1211e256.chunk.js",
+    "static/css/main.72fd5f32.chunk.css",
+    "static/js/main.dbf38acb.chunk.js"
   ]
 }
